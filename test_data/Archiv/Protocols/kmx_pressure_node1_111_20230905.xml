@@ -1,0 +1,26 @@
+<pressure>
+  <pipeline-line id="1">
+    <sensor-A>0,3574</sensor-A>
+    <sensor-B>0,3581</sensor-B>
+    <Contr-SI>0,3580</Contr-SI>
+    <difference>-0,0006</difference>
+  </pipeline-line>
+  <pipeline-line id="2">
+    <sensor-A>0,3576</sensor-A>
+    <sensor-B>0,3583</sensor-B>
+    <Contr-SI>0,3580</Contr-SI>
+    <difference>-0,0004</difference>
+  </pipeline-line>
+  <pipeline-line id="3">
+    <sensor-A>0,3579</sensor-A>
+    <sensor-B>0,3583</sensor-B>
+    <Contr-SI>0,3580</Contr-SI>
+    <difference>0,0003</difference>
+  </pipeline-line>
+<pipeline-line id="BIK">
+    <sensor-A>0,3577</sensor-A>
+    <sensor-B>0,3581</sensor-B>
+    <Contr-SI>0,3580</Contr-SI>
+    <difference>-0,0003</difference>
+  </pipeline-line>
+</pressure>

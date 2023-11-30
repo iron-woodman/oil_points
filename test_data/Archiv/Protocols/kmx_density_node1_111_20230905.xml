@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areometer>
+  <measurement id="1">
+    <temperature>24,4</temperature>	
+    <pressure>0,464</pressure>
+    <density_at_conditions>804,51</density_at_conditions>
+    <density_at_20C>807,50</density_at_20C>
+    <density_at_conditions_lab>804,56</density_at_conditions_lab>
+    <density_at_20C_lab>807,55</density_at_20C_lab>
+    <difference_in_density_at_conditions>-0,05</difference_in_density_at_conditions>
+    <density_difference_at_20C>-0,05</density_difference_at_20C>
+  </measurement>
+ <measurement id="2">
+    <temperature>24,4</temperature>	
+    <pressure>0,464</pressure>
+    <density_at_conditions>804,51</density_at_conditions>
+    <density_at_20C>807,50</density_at_20C>
+    <density_at_conditions_lab>804,56</density_at_conditions_lab>
+    <density_at_20C_lab>807,55</density_at_20C_lab>
+    <difference_in_density_at_conditions>-0,05</difference_in_density_at_conditions>
+    <density_difference_at_20C>-0,05</density_difference_at_20C>
+  </measurement>
+ <measurement id="3">
+    <temperature>24,4</temperature>	
+    <pressure>0,464</pressure>
+    <density_at_conditions>804,51</density_at_conditions>
+    <density_at_20C>807,50</density_at_20C>
+    <density_at_conditions_lab>804,56</density_at_conditions_lab>
+    <density_at_20C_lab>807,55</density_at_20C_lab>
+    <difference_in_density_at_conditions>-0,05</difference_in_density_at_conditions>
+    <density_difference_at_20C>-0,05</density_difference_at_20C>
+  </measurement>
+</areometer>

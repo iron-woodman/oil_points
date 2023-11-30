@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event id="1">
+    <time>02.11.2023 13:21</time>
+    <message>Измерительная линия1 команда открыть</message>
+  </event>
+  <event id="2">
+     <time>02.11.2023 13:21</time>
+    <message>Измерительная линия2 команда открыть</message>
+  </event>
+  <event id="3">
+    <time>02.11.2023 13:21</time>
+    <message>Измерительная линия3 команда открыть</message>
+  </event>
+  <event id="4">
+    <time>02.11.2023 17:21</time>
+    <message>Измерительная линия1 команда закрыть</message>
+  </event>
+  <event id="5">
+     <time>02.11.2023 17:21</time>
+    <message>Измерительная линия2 команда закрыть</message>
+  </event>
+  <event id="6">
+    <time>02.11.2023 17:21</time>
+    <message>Измерительная линия3 команда закрыть</message>
+  </event>
+  <event id="7">
+    <time>02.11.2023 17:31</time>
+    <message>Вентилятор№1 команда включить</message>
+  </event>
+   <event id="8">
+    <time>02.11.2023 17:35</time>
+    <message>Вентилятор№1 команда выключить</message>
+  </event>
+  <event id="9">
+    <time>02.11.2023 17:35</time>
+    <message>Пробоотборник№1 используется</message>
+  </event>
+    <event id="10">
+    <time>02.11.2023 17:35</time>
+    <message>Пробоотборник№2 используется</message>
+  </event>
+  <event id="11">
+    <time>02.11.2023 17:41</time>
+    <message>Измерительная линия№2 достигнут нижний предел давления</message>
+  </event>
+  <event id="12">
+    <time>02.11.2023 17:41</time>
+    <message>Измерительная линия№3 достигнут нижний предел давления</message>
+  </event>
+  <event id="13">
+    <time>02.11.2023 17:51</time>
+    <message>Измерительная линия№1 достигнут нижний предел температуры</message>
+  </event>
+  <event id="14">
+    <time>02.11.2023 17:51</time>
+    <message>Измерительная линия№2 достигнут нижний предел температуры</message>
+  </event>
+  
+  
+</events>

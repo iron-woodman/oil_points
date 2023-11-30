@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OIL_QUALITY_CERTIFICATE>
+  <enterprise_owner>«ПАО Лукойл»</enterprise_owner>
+  <parameter>
+    <name>Температура</name>
+    <value>23.2</value>
+  </parameter>
+  <parameter>
+    <name>Давление</name>
+    <value>0.38</value>
+  </parameter>
+  <parameter>
+    <name>Плотность</name>
+    <value>824.21</value>
+  </parameter>
+  <parameter>
+    <name>Плотность при 20°C</name>
+    <value>823.25</value>
+  </parameter>
+  <parameter>
+    <name>Массовая доля воды</name>
+    <value>0.3</value>
+  </parameter>
+  <parameter>
+    <name>Массовая доля мех. примесей</name>
+    <value>0.0043</value>
+  </parameter>
+  <parameter>
+    <name>Массовая доля серы</name>
+    <value>1.54</value>
+  </parameter>
+  <parameter>
+    <name>Массовая доля парафина</name>
+    <value>3.9</value>
+  </parameter>
+  <parameter>
+    <name>Массовая доля сероводорода</name>
+    <value>12.6</value>
+  </parameter>
+</OIL_QUALITY_CERTIFICATE>

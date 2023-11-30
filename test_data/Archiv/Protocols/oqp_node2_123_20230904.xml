@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OIL_QUALITY_CERTIFICATE>
+  <enterprise_owner>«ПАО Татнефть»</enterprise_owner>
+  <parameter>
+    <name>Температура</name>
+    <value>21.4</value>
+  </parameter>
+  <parameter>
+    <name>Давление</name>
+    <value>0.25</value>
+  </parameter>
+  <parameter>
+    <name>Плотность</name>
+    <value>824.21</value>
+  </parameter>
+  <parameter>
+    <name>Плотность при 20°C</name>
+    <value>826.25</value>
+  </parameter>
+  <parameter>
+    <name>Массовая доля воды</name>
+    <value>0.23</value>
+  </parameter>
+  <parameter>
+    <name>Массовая доля мех. примесей</name>
+    <value>0.0035</value>
+  </parameter>
+  <parameter>
+    <name>Массовая доля серы</name>
+    <value>1.62</value>
+  </parameter>
+  <parameter>
+    <name>Массовая доля парафина</name>
+    <value>3.6</value>
+  </parameter>
+  <parameter>
+    <name>Массовая доля сероводорода</name>
+    <value>12.6</value>
+  </parameter>
+</OIL_QUALITY_CERTIFICATE>

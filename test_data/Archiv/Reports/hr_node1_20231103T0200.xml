@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<oil-pipeline-metering-report>
+  <pipeline-line id="1">
+    <average-flow-rate>1000</average-flow-rate>
+    <average-temperature>50</average-temperature>
+    <average-pressure>500</average-pressure>
+    <average-density>800</average-density>
+    <average-density-at-20-degrees>790</average-density-at-20-degrees>
+    <average-volumetric-water-content>0.5</average-volumetric-water-content>
+    <average-mass-water-content>0.1</average-mass-water-content>
+    <volume-at-20-degrees>10000</volume-at-20-degrees>
+    <oil-weight-at-20-degrees>8000</oil-weight-at-20-degrees>
+  </pipeline-line>
+  <pipeline-line id="2">
+    <average-flow-rate>1500</average-flow-rate>
+    <average-temperature>55</average-temperature>
+    <average-pressure>550</average-pressure>
+    <average-density>820</average-density>
+    <average-density-at-20-degrees>810</average-density-at-20-degrees>
+    <average-volumetric-water-content>0.3</average-volumetric-water-content>
+    <average-mass-water-content>0.05</average-mass-water-content>
+    <volume-at-20-degrees>15000</volume-at-20-degrees>
+    <oil-weight-at-20-degrees>12300</oil-weight-at-20-degrees>
+  </pipeline-line>
+  <pipeline-line id="3">
+    <average-flow-rate>1500</average-flow-rate>
+    <average-temperature>55</average-temperature>
+    <average-pressure>550</average-pressure>
+    <average-density>820</average-density>
+    <average-density-at-20-degrees>810</average-density-at-20-degrees>
+    <average-volumetric-water-content>0.3</average-volumetric-water-content>
+    <average-mass-water-content>0.05</average-mass-water-content>
+    <volume-at-20-degrees>15000</volume-at-20-degrees>
+    <oil-weight-at-20-degrees>12300</oil-weight-at-20-degrees>
+  </pipeline-line>
+</oil-pipeline-metering-report>

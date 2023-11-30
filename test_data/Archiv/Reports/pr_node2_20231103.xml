@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<report>
+  <start_time>00:00:00 01.09.2023</start_time>
+  <end_time>00:00:00 02.09.2023</end_time>
+  <enterprise_owner>«Поставщик №2»</enterprise_owner>
+  <enterprise_transporter>«Название предприятия»</enterprise_transporter>
+  <instrument_readings>
+    <quality_passport_number>123</quality_passport_number>
+    <oil_gross_mass>39500</oil_gross_mass>
+    <average_temperature>23.2</average_temperature>
+    <average_pressure>0.47</average_pressure>
+    <average_density_measurement_conditions>817.19</average_density_measurement_conditions>
+    <average_density_20_degrees>819.24</average_density_20_degrees>
+    <mass_fraction_ballast>
+      <water>0.2753</water>
+      <mechanical_impurities>0.0050</mechanical_impurities>
+      <sulfur>1.51</sulfur>
+    </mass_fraction_ballast>
+    <ballast_mass>111</ballast_mass>
+    <net_oil_mass>39389</net_oil_mass>
+  </instrument_readings>
+</report>

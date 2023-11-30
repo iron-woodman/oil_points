@@ -1,0 +1,26 @@
+<temperature>
+  <pipeline-line id="1">
+    <sensor-A>24,12</sensor-A>
+    <sensor-B>24,14</sensor-B>
+    <Contr-SI>24,12</Contr-SI>
+    <difference>0,02</difference>
+  </pipeline-line>
+  <pipeline-line id="2">
+    <sensor-A>24,13</sensor-A>
+    <sensor-B>24,15</sensor-B>
+    <Contr-SI>24,14</Contr-SI>
+    <difference>-0,02</difference>
+  </pipeline-line>
+  <pipeline-line id="3">
+    <sensor-A>24,16</sensor-A>
+    <sensor-B>24,11</sensor-B>
+    <Contr-SI>24,14</Contr-SI>
+    <difference>-0,03</difference>
+  </pipeline-line>
+<pipeline-line id="BIK">
+    <sensor-A>24,13</sensor-A>
+    <sensor-B>24,15</sensor-B>
+    <Contr-SI>24,14</Contr-SI>
+    <difference>-0,01</difference>
+  </pipeline-line>
+</temperature>

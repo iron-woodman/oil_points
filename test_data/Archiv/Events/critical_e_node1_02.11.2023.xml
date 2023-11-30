@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event id="1">
+    <time>02.11.2023 13:21</time>
+    <message>Превышено давление на Линии1</message>
+  </event>
+  <event id="2">
+     <time>02.11.2023 13:21</time>
+    <message>Критическое значние температуры (95С) на Линии1</message>
+  </event>
+  <event id="3">
+    <time>02.11.2023 13:21</time>
+    <message>Превышено давление на Линии2</message>
+  </event>
+  
+</events>
